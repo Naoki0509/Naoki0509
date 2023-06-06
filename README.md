@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript,Mantine,Supabase,Firebase**
 
-- 👨‍💻 All of my projects are available at [https://www.naoking.app](naoking.app)
+- 👨‍💻 All of my projects are available at [naoking.app](https://www.naoking.app)
 
 - 💬 Ask me about **React,TypeScript**
 
