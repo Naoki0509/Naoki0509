@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naoki Hayashida.</h1>
+<h1 align="center">Hi 👋, I'm nacky.</h1>
 <h3 align="center">A passionate frontend developer from Japan.</h3>
 
 - 🌱 I’m currently learning **TypeScript,Mantine,Supabase,Firebase**
