@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm nacky.</h1>
 <h3 align="center">A passionate frontend developer from Japan.</h3>
 
+### FRONTEND
+<p>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React' />
+  <img src='https://img.shields.io/badge/next.js-%230f0f0f?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='Next.js' />
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' />  
+</p>
+
+### MOBILE
+
+<p>
+  <img src='https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white' alt='Flutter' />
+  <img src='https://img.shields.io/badge/react%20native-%232b2b2b?style=for-the-badge&logo=react&logoColor=%2361DAFB alt='React Native'
+'
+</p>
+
+### TOOL,SsaS
+
+<p>
+  <img src='https://img.shields.io/badge/prisma-gray?style=for-the-badge&logo=prisma&logoColor=white' alt='Prisma' />
+  <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='Vs code' />
+</p>
+
+
+
 # 📊 My Stats...
 
 <p align='left'>
