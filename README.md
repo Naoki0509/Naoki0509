@@ -28,6 +28,8 @@
 ### TOOL,SsaS
 
 <p>
+  <img src='https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white' alt='Slack' />
+  <img src='https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='Figma' />
   <img src='https://img.shields.io/badge/firebase-%232b2b2b?style=for-the-badge&logo=firebase' alt='Firebase' />
   <img src='https://img.shields.io/badge/prisma-gray?style=for-the-badge&logo=prisma&logoColor=white' alt='Prisma' />
     <img src='https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED' alt='Docker' />
