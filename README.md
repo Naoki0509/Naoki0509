@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nacky.</h1>
 <h3 align="center">A passionate frontend developer from Japan.</h3>
 
-# Languages and Tools
+## Languages and Tools
 
 ### FRONTEND
 <p>
@@ -36,7 +36,7 @@
 
 
 
-# 📊 My Stats...
+## 📊 My Stats...
 
 <p align='left'>
 <img height='150'  src="https://github-readme-stats.vercel.app/api/top-langs?username=naoki0509&show_icons=true&locale=en&theme=dark&layout=compact" alt="naoki0509" />
