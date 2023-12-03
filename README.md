@@ -23,7 +23,6 @@
 <p>
   <img src='https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white' alt='Flutter' />
   <img src='https://img.shields.io/badge/react%20native-%232b2b2b?style=for-the-badge&logo=react&logoColor=%2361DAFB alt='React Native'
-'
 </p>
 
 ### TOOL,SsaS
@@ -31,6 +30,7 @@
 <p>
   <img src='https://img.shields.io/badge/firebase-%232b2b2b?style=for-the-badge&logo=firebase' alt='Firebase' />
   <img src='https://img.shields.io/badge/prisma-gray?style=for-the-badge&logo=prisma&logoColor=white' alt='Prisma' />
+    <img src='https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED' alt='Docker' />
   <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='Vs code' />
 </p>
 
