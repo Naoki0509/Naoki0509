@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nacky.</h1>
 <h3 align="center">A passionate frontend developer from Japan.</h3>
 
-### Languages and Tools
+# Languages and Tools
 
 ### FRONTEND
 <p>
