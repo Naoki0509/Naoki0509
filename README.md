@@ -41,8 +41,8 @@
 ## 📊 My Stats...
 
 <p align='left'>
-<img height='150'  src="https://github-readme-stats.vercel.app/api/top-langs?username=naoki0509&show_icons=true&locale=en&theme=dark&layout=compact" alt="naoki0509" />
-<img height='150'  src="https://github-readme-stats.vercel.app/api?username=naoki0509&show_icons=true&theme=dark&locale=en" alt="naoki0509" />
+<img height='150'  src="https://github-readme-stats.vercel.app/api/top-langs?username=naoki0509&show_icons=true&locale=ja&theme=dark&layout=compact" alt="naoki0509" />
+<img height='150'  src="https://github-readme-stats.vercel.app/api?username=naoki0509&show_icons=true&theme=dark&locale=ja" alt="naoki0509" />
 </p>
 
 <p align='raight'>
